@@ -11,6 +11,7 @@ import './task-5';
 import './task-6';
 import './task-7';
 import './task-8';
+console.log("🔥 MAIN IS RUNNING");
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">
